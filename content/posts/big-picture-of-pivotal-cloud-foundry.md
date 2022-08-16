@@ -9,7 +9,9 @@ featureImage: /uploads/inside-glacier-cave-2.jpg
 ---
 There are three different models of cloud services: Infrastructure as a service (IAAS), Platform as a service (PAAS), and Software as a service (SAAS). IAAS like Amazon Web Services provides the underlying infrastructure but you still need to configure your own runtime, Operating system, and middleware. PAAS like Cloudfoundry provides runtime, operating system, and middleware as well and you only need to have your own application and data system. SAAS like Salesforce provides everything for you even the application and data system. 
 
-> The advantages of using PAAS like Cloudfoundry is that you get everything you need to start building your application but you still are free to customize your application and your data systems. Let's dive into the cloudfoundry ecosystem and talk about some of the topics to understand the service better.
+> ***"The advantages of using PAAS like Cloudfoundry is that you get everything you need to start building your application but you still are free to customize your application and your data systems. Let's dive into the cloudfoundry ecosystem and talk about some of the topics to understand the service better"***
+
+The cloudfoundry ecosystem consists of User interfaces, services, Elastic runtime with Diego, Loggregator, Buildpacks, Cloud controller, Service broker and router, and Extensions, Operations and Cloud foundry BOSH. Lets take a brief look at them.
 
 #### User interface
 
@@ -66,7 +68,7 @@ Apart from elastic runtime, services, and user interfaces, there are extensions,
 
 * Logging in: `cf login -a <apiUrl>`
 
-  *  Enter your login credentials to log in
+  * Enter your login credentials to log in
 * Viewing the space and org: `cf target` 
 
   * Shows your api endpoint, user, org, and space. Organisation is a business unit, space is an environment.
