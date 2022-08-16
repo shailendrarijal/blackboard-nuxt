@@ -1,5 +1,5 @@
 ---
 name: Technology
-image: /uploads/home-hero.jpg
+image: /uploads/logo.png
 description: Posts related to technology will be published in this category
 ---
