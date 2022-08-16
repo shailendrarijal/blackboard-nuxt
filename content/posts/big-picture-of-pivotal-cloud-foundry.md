@@ -5,7 +5,7 @@ category:
   - Technology
 author: Shailendra Rijal
 date: 2022-08-16T02:52:19.506Z
-featureImage: /uploads/inside-glacier-cave-2.jpg
+featureImage: /uploads/logo.png
 ---
 There are three different models of cloud services: Infrastructure as a service (IAAS), Platform as a service (PAAS), and Software as a service (SAAS). IAAS like Amazon Web Services provides the underlying infrastructure but you still need to configure your own runtime, Operating system, and middleware. PAAS like Cloudfoundry provides runtime, operating system, and middleware as well and you only need to have your own application and data system. SAAS like Salesforce provides everything for you even the application and data system. 
 
