@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Blackboard Nepal',
+  tagline: 'Supporting the community',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -29,17 +29,17 @@ export default {
     {
       name: 'Categories',
       link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
     }
+    // {
+    //   name: 'Github Repo',
+    //   link: 'https://github.com/danielkellyio/awake-template',
+    //   target: '_blank'
+    // },
+    // {
+    //   name: 'Awake+ Premium',
+    //   link: 'https://awake-premium-lp.netlify.com/',
+    //   target: '_blank'
+    // }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
@@ -61,7 +61,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'blackboardnepal' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
@@ -74,7 +74,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://blackboardnepal.us17.list-manage.com/subscribe/post?u=05c0853c6d566a872bb35560d&amp;id=4fd9f13727&amp;f_id=008247e0f0'
     },
     custom: {
       on: false,
