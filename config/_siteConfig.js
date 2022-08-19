@@ -12,7 +12,7 @@ export default {
   siteName: 'Blackboard Nepal',
   tagline: 'Supporting the community',
   featureImage: '/uploads/logo.png',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -21,15 +21,15 @@ export default {
     {
       name: 'About',
       link: '/about'
-    },
-    {
-      name: 'Contact',
-      link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
     }
+    // {
+    //   name: 'Contact',
+    //   link: '/contact'
+    // },
+    // {
+    //   name: 'Categories',
+    //   link: '/categories'
+    // }
     // {
     //   name: 'Github Repo',
     //   link: 'https://github.com/danielkellyio/awake-template',
