@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'Blackboard Nepal',
   tagline: 'Supporting the community',
-  featureImage: '/uploads/logo.png',
+  featureImage: '/uploads/home-hero.jpg',
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
