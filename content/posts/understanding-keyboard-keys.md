@@ -5,7 +5,7 @@ category:
   - Technology
 author: Shailendra Rijal
 date: 2022-08-16T00:11:45.312Z
-featureImage: /uploads/logo.png
+featureImage: /uploads/inside-glacier-cave-2.jpg
 ---
 > ***You don't want to be saying, 'Press that key left to the number 1 key.' You want to be saying, 'Press the tick key'.***
 
