@@ -1,6 +1,6 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
-    <site-hero title="Categories" image="/uploads/about-logo.png" />
+    <site-hero title="Categories" image="/uploads/inside-glacier-cave-2.jpg" />
     <main-section theme="one-column">
       <categories-grid />
     </main-section>
