@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Blackboard Nepal',
-  tagline: 'Supporting the community',
+  tagline: 'Exploring the foundation',
   featureImage: '/uploads/home-hero.jpg',
   logo: '/logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -21,15 +21,15 @@ export default {
     {
       name: 'About',
       link: '/about'
+    },
+    {
+      name: 'Categories',
+      link: '/categories'
     }
     // {
     //   name: 'Contact',
     //   link: '/contact'
     // },
-    // {
-    //   name: 'Categories',
-    //   link: '/categories'
-    // }
     // {
     //   name: 'Github Repo',
     //   link: 'https://github.com/danielkellyio/awake-template',

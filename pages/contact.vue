@@ -14,7 +14,7 @@
                 Hello!
               </p>
               <p class="subtitle">
-                What can I do for you?
+                How can I help you?
               </p>
               <figure class="image is-1by1 ">
                 <opti-image

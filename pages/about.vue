@@ -1,28 +1,28 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="Blackboard Nepal"
-      subtitle="Supporting the community"
-      image="/uploads/logo.png"
+      title=""
+      subtitle=""
+      image="/uploads/about-logo.png"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
-          <p>
+          <h3>About Blackboard Nepal</h3>
+          /*<p>
             <strong>
               Edit this page in<code>/pages/about.vue</code>to fit your needs.
             </strong>
+          </p>*/
+          <p>
+            Blackboard Nepal was born with an idea of empowering the community. We beleive that the best way of empowerment is through information. We will be writing on topics such as Technology, Language and Literature, Health and nutrition, Finance and so on
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            You can search for articles using the search bar on the top or go on categories and browse the categories
           </p>
         </div>
 
-        <div class="tile is-ancestor">
+        /*<div class="tile is-ancestor">
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
@@ -62,7 +62,7 @@
               </figure>
             </article>
           </div>
-        </div>
+        </div>*/
       </template>
 
       <template v-slot:sidebar>
